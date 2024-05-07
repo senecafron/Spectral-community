@@ -8,6 +8,12 @@ Here, you can create issues for either bug reports or feature requests for Spect
 
 [Download Spectral VS Code Extension now! ](https://marketplace.visualstudio.com/items?itemName=SenecaFron.spectral-beta)
 
+# How to find Spectral Logs 
+
+There is `Spectral Logs` channel in the `Output` (`View` > `Output`) 
+
+Would be great to include the logs when you create an issue!
+
 # Spectral Features
 
 ![Demo](https://github.com/senecafron/SpectralGifs/blob/master/SpectralCallHierarchy.gif?raw=true)
